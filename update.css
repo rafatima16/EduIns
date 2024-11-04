@@ -22,15 +22,6 @@ header {
     height: 120px;
 }
 
-.header-logo {
-    position: absolute; /* Position the logo absolutely */
-    top: 10px; /* Adjust as needed */
-    left: 20px; /* Adjust as needed */
-    height: 120px; /* Make the logo fill the height of the header */
-    /* Prevent exceeding header height */
-    width: auto; /* Maintain aspect ratio */
-}
-
 footer {
     background: darkgoldenrod; 
     padding: 10px;
